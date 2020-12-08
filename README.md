@@ -8,14 +8,14 @@
 
 #### Creating a local directory [local]
 
-- First you will need to make a folder/directory on your computer
+- First create folder/directory on your local drive
 
-  - For this, you will be using your terminal
-  - Command for making a director is: `mkdir [file_name]` i.e. `mkdir cli_project`
+  - This step happens in the terminal + VsCode
+  - Command for making a directory is: `mkdir [file_name]` i.e. `mkdir cli_project`
 
 #### Creating a repository [remote]
 
-- Once you have created a local directory, you will need to create a remote repository. [Remote]
+- Once local directory has been created, create a remote repository
 - Sign into Github, and then navigate to the `+` sign in the upper right corner and click `new repository`
 - The only fields you need to modify are:
   - `Repository name` - Give your project a name!
