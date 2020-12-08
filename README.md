@@ -33,7 +33,10 @@
     - Write your commit messages like your life depends on it!
   4. Go back to the new repository page on github and copy the following last three lines 
     - `git branch -M main`
-    - `git remote add origin git@github.com:aisayo/tet.git`
+    - `git remote add origin git@github.com:aisayo/test.git`
     - `git push -u origin main`
   5. Paste these 3 lines (you can paste all at once) in your terminal and hit enter
   6. Refresh your Github page and viola!
+
+
+  [Video Walk Through](https://youtu.be/VQqJB3wWzMI)
