@@ -6,8 +6,18 @@
 #### Why you ask? You want to be able to commit your changes as you build your app 
 #### What are commits? [Commits](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#:~:text=A%20commit%2C%20or%20%22revision%22,who%20made%20them%20and%20when.)
 
-- First you will need to make a folder/directory on your computer. [Local]
+#### Creating a local directory [local]
+
+- First you will need to make a folder/directory on your computer
+
+  - For this, you will be using your terminal
   - Command for making a director is: `mkdir [file_name]` i.e. `mkdir cli_project`
 
-- Once you have created a local directory, you will need to create a remote repository.
-- You will need to sign into Github, and then navigate to the `+` sign in the upper right corner and click `new repository` 
+#### Creating a repository [remote]
+
+- Once you have created a local directory, you will need to create a remote repository. [Remote]
+- Sign into Github, and then navigate to the `+` sign in the upper right corner and click `new repository`
+- The only fields you need to modify are:
+  - `Repository name` - Give your project a name!
+  - Then click `create repository`
+  - You will add a license, but save this for the end
