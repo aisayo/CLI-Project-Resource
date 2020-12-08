@@ -31,3 +31,7 @@
   3. `git commit -m write a commit message` - command to commit, `-m` stands for message and then after you want to write a commit message that makes sense.
     - Things to consider for commit messages, what change did you make and where
     - Write your commit messages like your life depends on it!
+  4. Go back to the new repository page on github and copy the following last three lines 
+    `git branch -M main`
+    `git remote add origin git@github.com:aisayo/tet.git` #this is just my example, paste your own
+    `git push -u origin main`
